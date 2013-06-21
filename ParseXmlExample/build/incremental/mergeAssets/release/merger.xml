@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Nestor_Velasquez\AppData\Local\Android\android-studio\sdk\extras\google\gcm\samples\ParseXmlExampleProject\ParseXmlExample\src\main\assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Users\Nestor_Velasquez\AppData\Local\Android\android-studio\sdk\extras\google\gcm\samples\ParseXmlExampleProject\ParseXmlExample\src\release\assets" />
+    </dataSet>
+
+</merger>
